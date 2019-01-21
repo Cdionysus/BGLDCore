@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'BGLDCore'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BGLDCore.'
+  s.summary          = '广告聚合SDK核心组件'
 
   s.homepage         = 'https://github.com/Cdionysus/BGLDCore'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
