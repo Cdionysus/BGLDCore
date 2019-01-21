@@ -1,0 +1,16 @@
+PODS:
+  - BGLDCore-kit (0.1.0)
+
+DEPENDENCIES:
+  - BGLDCore-kit (from `../`)
+
+EXTERNAL SOURCES:
+  BGLDCore-kit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BGLDCore-kit: ec9a040818f8d3098d1f373b3faa2f175d8dfdc1
+
+PODFILE CHECKSUM: 176a3c118d9a630de2c399d4344749ec34086203
+
+COCOAPODS: 1.6.0.beta.2
